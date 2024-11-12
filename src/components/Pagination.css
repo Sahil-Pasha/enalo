@@ -1,0 +1,7 @@
+.showButton {
+  border: 1px solid red;
+}
+
+.hideButton {
+  border: none;
+}
